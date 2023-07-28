@@ -1,11 +1,10 @@
 ### Hi there 👋
 
+- 🌱 I’m currently learning [Tizen](https://docs.tizen.org/)
+- 😄 Self-taught developer
 
-- 🌱 I’m currently learning React
-- 😄 self-taught developer
-
-### Repository List
-
+### Resume (CV)
+[Github page](http://randi2993.github.io)
 
 <!--
 **randi2993/randi2993** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
