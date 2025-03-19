@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning [Ionic](https://ionicframework.com/)
+- 🌱 I’m currently learning [Ionic](https://ionicframework.com/){:target="_blank" rel="noopener"}
 - 😄 Self-taught developer
 
 ### Resume (CV)
