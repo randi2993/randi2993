@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning [Tizen](https://docs.tizen.org/)
+- 🌱 I’m currently learning [Ionic](https://ionicframework.com/)
 - 😄 Self-taught developer
 
 ### Resume (CV)
