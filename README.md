@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning [Ionic](https://ionicframework.com/)
+- 🌱 I’m currently learning [Flutter](https://flutter.dev/)
 - 😄 Self-taught developer
 
 ### Resume (CV)
